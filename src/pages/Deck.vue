@@ -8,7 +8,6 @@
 </template>
 
 <script>
-import Deck from '../components/decks/Deck';
 export default {
   name: 'decks',
   data() {
